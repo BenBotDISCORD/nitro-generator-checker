@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import asyncio
 from random import choice, choices
-from string import ascii_letters, digits
+etters, digits
 from typing import NoReturn, Optional
 
 from aiofiles import open
